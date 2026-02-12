@@ -18,6 +18,9 @@
     <ClCompile Include="GForm.cpp">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GForm.h">
